@@ -1,0 +1,1 @@
+PROJECT(dukcling C CXX)
